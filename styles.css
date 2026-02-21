@@ -1,1 +1,14 @@
 /*  your css code here. If applicable */
+.password-input {
+  /* Border and color */
+  border: 1px solid #ccc;
+  
+  /* Spacing and sizing */
+  padding: 0.5rem;
+  font-size: 1rem;
+  
+  /* Optional: Ensure it looks consistent across browsers */
+  border-radius: 4px;
+  width: 100%;
+  max-width: 300px;
+}
